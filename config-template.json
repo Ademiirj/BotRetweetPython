@@ -1,0 +1,14 @@
+{
+  "consumer_key": "ChavePublicaDeConsumidor",
+  "consumer_secret": "ChaveSecretaDeConsumidor",
+  "access_token": "ChavePublicaDeAcesso",
+  "access_token_secret": "ChaveSecretaDeAcesso",
+  "bot_user":"TwitterUser",
+  "key_words": [
+      "Word_1",
+      "Word_2",
+      "Word_N"
+  ],
+  "sleep_seconds": 600,
+  "tweets_per_query": 10
+}
